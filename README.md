@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/t4bw4lnmxy1dg3ys/branch/master?svg=true)](https://ci.appveyor.com/project/PowerShell/xwindowsupdate/branch/master)
 
-# xWindowsUpdate
+# xWindowsUpdate test
 
 The **xWindowsUpdate** module contains the **xHotfix** DSC resource that installs a Windows Update (or hotfix) from a given path. For more information on Windows Update and Hotfix, please refer to [this TechNet article](http://technet.microsoft.com/en-us/library/cc750077.aspx).
 
