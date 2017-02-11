@@ -40,8 +40,3 @@ deploy_script:
             -Type 'Wiki' `
             -MainModulePath $mainModuleFolder `
             -ResourceModuleName $moduleName
-        
-        
-
-
-
