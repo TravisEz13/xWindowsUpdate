@@ -27,7 +27,7 @@ test_script:
             -MainModulePath $mainModuleFolder `
             -ExcludeTag @() `
             -CodeCoverage `
-            -CodCovIo
+            -CodeCovIo
     
 #---------------------------------# 
 #      deployment configuration   # 
